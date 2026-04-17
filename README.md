@@ -2,7 +2,8 @@
 Tugas praktikum Minggu 5 - Navigation & Multi-Screen App.
 
 ## 📸 Preview
-![SecureGuard App](app01.jpeg)(app02.jpeg)
+![SecureGuard App](app01.jpeg)
+![SecureGuard App](app02.jpeg)
 
 ## 🛠️ Logic Implemented
 - **React Navigation:** Stack Navigator untuk berpindah antar halaman Login, Register, dan Home.
